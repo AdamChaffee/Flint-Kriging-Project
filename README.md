@@ -1,11 +1,11 @@
 # Flint-Kriging-Project
 
 ## Overview and History
-The Flint water crisis is an environmental catastrophe that has garnered media attention over the last few years. Local officials changed the City of Flint, Michigan's water source from Lake Huron to the nearby Flint river. After making the switch, government officials failed to apply corrosion inhibitors to the water before piping it into the city system.
+The Flint water crisis is an environmental catastrophe that has garnered media attention over the last few years. In 2014 local officials changed the City of Flint, Michigan's water source from Lake Huron to the nearby Flint river in an attempt to save money. After making the switch, government officials failed to apply corrosion inhibitors to the water before piping it into the city system.
 
 Much of Flint's water infrastructure was built in the early 1900's at a time when lead and copper lining of water pipes was common. The Flint river water corroded the pipes causing lead and copper linings to leach into the water supply. Thousands of Flint residents who drank the water suffered a range of health problems. Children were especially vulnerable as they became susceptible to physical growth, behavior, and learning problems.
 
-It was quickly apparent that water quality had diminished, resulting in public outcry. State officials came in to test the water in a variety of locations and found no cause for mandatory action.
+After switching water sources it quickly became apparent that water quality had diminished. The color of the water became murky and several residents and their children began to experience significant health issues. State officials came in to test the water in a variety of locations and found no cause for mandatory action.
 
 Local residents and scientists were not convinced. A grant from the MacArthur Foundation put testing kits and instructions into the hands of local residents who faithfully executed testing and reporting instructions to the best of their ability.
 
@@ -18,10 +18,9 @@ The best way to identify potential lead leaching is to look at city construction
 I decided to utilize several kriging methods using residential testing data in an attempt to identify potential regions of high lead leaching. I explored ordinary, simple, universal, and indicator kriging to obtain estimates of lead leaching levels throughout the city. Since the testing data also contained copper levels, I explored using copper as a covariate in co-kriging as well.
 
 ## Results
-After using leave-one-out cross validation on all kriging methods, co-kriging with copper produced the lowest residual sum of squares estimate due to the weak positive relationship between copper and lead. When comparing the contour map to construction records, the areas of concern my map identified line up well with known lead-contaminated areas. No new areas of concern were identified.
+After using leave-one-out cross validation on all kriging methods, co-kriging with copper produced by far the lowest residual sum of squares estimate due to the weak positive relationship between copper and lead. When comparing the contour map to construction records, the areas of concern my map identified line up well with known lead-contaminated areas. No new areas of concern were identified.
 
 ## References
-
 Data obtained from: http://www.michigan.gov/flintwater/0,6092,7-345-76292_76294_76297---,00.html
 
 Article from Significance Magazine: http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2017.01016.x/full
