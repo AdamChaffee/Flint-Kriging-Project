@@ -5,7 +5,7 @@ The Flint water crisis is an environmental catastrophe that has garnered media a
 
 Much of Flint's water infrastructure was built in the early 1900's at a time when lead and copper lining of water pipes was common. The Flint river water irreversibly corroded the pipes causing lead and copper linings to leach into the water supply. Thousands of Flint residents who drank the water suffered a range of health problems. Children were especially vulnerable as they became susceptible to physical growth, behavior, and learning problems.
 
-After switching water sources it quickly became apparent that water quality had diminished. The color of the water became murky and several residents and their children began to experience significant health issues. State officials came in to test the water in a variety of locations and found no cause for mandatory action.
+After switching water sources it quickly became apparent that water quality had diminished. The water became brown and murky, and several residents and their children began to experience significant health issues. State officials came in to test the water in a variety of locations and found no cause for mandatory action.
 
 Local residents and scientists were not convinced. A grant from the MacArthur Foundation put testing kits and instructions into the hands of local residents who faithfully executed testing and reporting instructions to the best of their ability.
 
