@@ -20,6 +20,8 @@ I decided to utilize several kriging methods using residential testing data in a
 ## Results
 After using leave-one-out cross validation on all kriging methods, co-kriging with copper produced by far the lowest residual sum of squares estimate due to the weak positive relationship between copper and lead. When comparing the contour map to construction records, the areas of concern my map identified line up well with known areas constructed with lead pipe linings. However, no new areas of concern were identified from these methods.
 
+I presented this work in March, 2017. Presentation slides are available upon request.
+
 ## References
 Data obtained from: http://www.michigan.gov/flintwater/0,6092,7-345-76292_76294_76297---,00.html
 
